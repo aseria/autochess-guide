@@ -24,7 +24,7 @@ tier.b.push("drow_ranger", "chaos_knight", "luna", "abaddon", "omniknight", "lyc
     "mirana", "death_prophet");
 tier.c.push("enchantress", "treant_protector", "crystal", "puck", "slardar", "morphling", "phantom_assassin",
     "terrorblade", "lina", "light_keeper");
-tier.d.push("tinker", "ogre_magi", "tusk", "shadow_shaman", "witch_doctor", "slark");
+tier.d.push("tinker", "ogre_magi", "tusk", "shadow_shaman", "witch_doctor", "slark", "furion", "tiny", "sniper");
 tier.f.push("bat_rider", "sand_king", "venomancer", "alchemist", "riki");
 //....
 
